@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "UKFE"]
 	path = UKFE
-	url = https://github.com/cran/UKFE
+	url = https://github.com/agqhammond/ukfe
